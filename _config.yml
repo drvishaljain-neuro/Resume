@@ -26,21 +26,21 @@ author:
   avatar           : "Vishal_pic2.PNG"
   name             : "Vishal Jain"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Translational Neurosciencet"
+  location         : "Pittsburgh PA"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vishalja@andrew.cmu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dJv3P1EAAAAJ&hl=en&authuser=5"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5865-6235"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
